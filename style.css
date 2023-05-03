@@ -2,3 +2,7 @@ body {
     font-family: Verdana, sans-serif;
     color: #000;
 }
+
+main {
+    margin: 50px;
+}
