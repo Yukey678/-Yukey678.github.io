@@ -1,4 +1,3 @@
-"use strict";
 
 function fib(n) {
     let result = '';
